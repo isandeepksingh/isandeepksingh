@@ -9,8 +9,8 @@ isandeepksingh/isandeepksingh is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 💪 Core Skills
-Client Relationship
-Business Management
-Project Documentation
-Delivery Process
-Budgeting and Cost Optimization
+- Client Relationship
+- Business Management
+- Project Documentation
+- Delivery Process
+- Budgeting and Cost Optimization
