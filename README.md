@@ -20,4 +20,8 @@ You can click the Preview link to take a look at your changes.
 :superhero:	What We ( Synch Soft HQ and Me) can do for you!
 ![1639552416812](https://user-images.githubusercontent.com/59594541/151304003-8fbe2850-9d61-4a4f-ae3e-1f4ecc024b14.jpg)
 
+![image](https://user-images.githubusercontent.com/59594541/151308259-aa40383e-563e-42cd-aefe-105f9811c296.png)
+![image](https://user-images.githubusercontent.com/59594541/151308386-0604903a-36fb-4fb8-93cb-2473e6d3c92e.png)
+Read more about my team and Me : https://clutch.co/profile/synchsofthq#reviews
+
 
