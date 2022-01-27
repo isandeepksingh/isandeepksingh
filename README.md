@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 - Delivery Process
 - Budgeting and Cost Optimization
 
-😎What We ( Synch Soft HQ and Me) can do for you!
+:superhero:	What We ( Synch Soft HQ and Me) can do for you!
 ![1639552416812](https://user-images.githubusercontent.com/59594541/151304003-8fbe2850-9d61-4a4f-ae3e-1f4ecc024b14.jpg)
 
 
